@@ -1,6 +1,8 @@
 # project-dashboard
 The central project management dashboard for CubeSat@AerospaceNU
 
+---
+
 This dashboard serves the following purposes:
 - Create project items for each team. Each project item contains:
 	- Title
@@ -31,8 +33,10 @@ This dashboard serves the following purposes:
 	- Active roster handling (taking attendance, etc.)
 	- Ability to create forms to handle interest/signups/lead transitions
 
+---
+
 The following features are in development (v0.0.1):
-|    | Item | Description |
-| -- | ---- | ----------- |
-| [] | Install react, ejs, express | Basic server side stuff |
-| [] | Build home page | Build the home page with ejs and bootstrap |
+|     | Item | Description |
+| --- | ---- | ----------- |
+| [ ] | Install react, ejs, express | Basic server side stuff |
+| [ ] | Build home page | Build the home page with ejs and bootstrap |
