@@ -1,0 +1,9 @@
+{
+  "name": "project-dashboard",
+  "version": "0.0.1",
+  "description": "Central project management interface for CubeSat@AerospaceNU",
+  "main": "index.js",
+  "repository": "https://github.com/CubeSat-AerospaceNU/project-dashboard",
+  "author": "RahulR100 <rahulrao@email.com>",
+  "license": "MIT"
+}
