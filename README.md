@@ -1,5 +1,5 @@
-# project-dashboard
-The central project management dashboard for CubeSat@AerospaceNU
+# CeSPED - CubeSat Project Execution Dashboard
+The central project management dashboard for CubeSat@AerospaceNU. And yes, it is pronounced cesped.
 
 ---
 
