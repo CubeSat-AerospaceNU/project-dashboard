@@ -1,4 +1,4 @@
-# CeSPED - CubeSat Project Execution Dashboard
+![Logo](https://www.iconsdb.com/icons/preview/green/grass-xxl.png) # CeSPED - CubeSat Project Execution Dashboard
 The central project management dashboard for CubeSat@AerospaceNU. And yes, it is pronounced cesped.
 
 ---
